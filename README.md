@@ -1,4 +1,4 @@
-# cs50
+# CS50
 Assignments and exercises for cs50 course
 
 ## pset1
@@ -26,3 +26,5 @@ Assignments and exercises for cs50 course
      $ ./cash
      Change owed: 0.41
      4 
+
+## pset2
